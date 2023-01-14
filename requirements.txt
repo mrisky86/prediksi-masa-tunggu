@@ -1,6 +1,6 @@
 numpy
 pandas
-streamlit
+streamlit 1.14.0
 pip
 scikit-learn
 pickle
